@@ -270,9 +270,6 @@ Vellore Institute of Technology, Chennai
 
 **Sinthesh S**
 
-MSc Data Science  
-VIT Chennai
-
 ## Disclaimer
 
 This project is an academic/research prototype for text classification. Predictions from the system should not be interpreted as medical or clinical diagnoses, nor should they be used as the sole basis for decisions concerning an individual's safety or mental health.
